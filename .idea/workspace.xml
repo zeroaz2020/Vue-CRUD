@@ -16,15 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:1_setup" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b549efbb-93f3-46a8-b22a-99e878c85975" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/vue-til/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-til/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-til/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +46,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="1_setup" />
-                    <option name="lastUsedInstant" value="1590560325" />
+                    <option name="lastUsedInstant" value="1590580696" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1590560324" />
+                    <option name="lastUsedInstant" value="1590580642" />
                   </RecentBranch>
                 </list>
               </option>
@@ -59,11 +61,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="1_setup" />
-                    <option name="lastUsedInstant" value="1590578596" />
+                    <option name="lastUsedInstant" value="1590580702" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1590578595" />
+                    <option name="lastUsedInstant" value="1590580671" />
                   </RecentBranch>
                 </list>
               </option>
@@ -130,7 +132,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="1_setup" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -146,6 +160,10 @@
       <screen x="0" y="23" width="1920" height="1137" />
     </state>
     <state width="625" height="500" key="SwitcherDM/0.23.1920.1137@0.23.1920.1137" timestamp="1590567407512" />
+    <state x="535" y="243" key="git4idea.branch.GitSmartOperationDialog" timestamp="1590580671564">
+      <screen x="0" y="23" width="1920" height="1137" />
+    </state>
+    <state x="535" y="243" key="git4idea.branch.GitSmartOperationDialog/0.23.1920.1137@0.23.1920.1137" timestamp="1590580671564" />
     <state x="629" y="155" width="964" height="820" key="search.everywhere.popup" timestamp="1590568598927">
       <screen x="0" y="23" width="1920" height="1137" />
     </state>
