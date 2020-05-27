@@ -26,7 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b549efbb-93f3-46a8-b22a-99e878c85975" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-til/src/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-til/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-til" />
   </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
