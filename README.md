@@ -3,7 +3,8 @@
 ## Branch
 
 - master : vue cli 프로젝트 생성 및 환경 구성
-- 1_setup : ESLint, Prettier 적용
+- 1_setup : ESLint, Prettier
+- 2_router : Vue Router
 
 
 
