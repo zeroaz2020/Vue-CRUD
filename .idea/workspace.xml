@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b549efbb-93f3-46a8-b22a-99e878c85975" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-til/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" afterDir="false" />
@@ -35,7 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-til" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
@@ -121,7 +119,7 @@
       <workItem from="1590566340731" duration="910000" />
       <workItem from="1590567454368" duration="1034000" />
       <workItem from="1590574062697" duration="2000" />
-      <workItem from="1590578535232" duration="627000" />
+      <workItem from="1590578535232" duration="1841000" />
     </task>
     <servers />
   </component>
