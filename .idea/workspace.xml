@@ -27,14 +27,27 @@
   <component name="ChangeListManager">
     <list default="true" id="b549efbb-93f3-46a8-b22a-99e878c85975" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/vue-til/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-til/src/views/LoginPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-til/src/views/SignupPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-til/src/views/Test.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-til/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-til/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-til" />
@@ -49,21 +62,6 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="1_setup" />
-                    <option name="lastUsedInstant" value="1590580696" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1590580642" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
-            </RecentBranchesForRepo>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="1_setup" />
                     <option name="lastUsedInstant" value="1590580702" />
                   </RecentBranch>
                   <RecentBranch>
@@ -73,6 +71,25 @@
                 </list>
               </option>
               <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/vue-til" />
+            </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="2_router" />
+                    <option name="lastUsedInstant" value="1590582152" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="1_setup" />
+                    <option name="lastUsedInstant" value="1590580696" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1590580642" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
             </RecentBranchesForRepo>
           </list>
         </option>
@@ -155,10 +172,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="142" key="SettingsEditor" timestamp="1590578937825">
+    <state x="920" y="175" width="1000" height="891" key="#Intentions" timestamp="1590583650117">
       <screen x="0" y="23" width="1920" height="1137" />
     </state>
-    <state x="344" y="142" key="SettingsEditor/0.23.1920.1137@0.23.1920.1137" timestamp="1590578937825" />
+    <state x="920" y="175" width="1000" height="891" key="#Intentions/0.23.1920.1137@0.23.1920.1137" timestamp="1590583650117" />
+    <state x="344" y="142" key="SettingsEditor" timestamp="1590583957669">
+      <screen x="0" y="23" width="1920" height="1137" />
+    </state>
+    <state x="344" y="142" key="SettingsEditor/0.23.1920.1137@0.23.1920.1137" timestamp="1590583957669" />
     <state width="625" height="500" key="SwitcherDM" timestamp="1590567407512">
       <screen x="0" y="23" width="1920" height="1137" />
     </state>
