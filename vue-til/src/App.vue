@@ -6,19 +6,22 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import HelloWorld from './components/HelloWorld.vue';
 
 export default {
-  name: "App",
+  name: 'app',
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+  },
+  created() {
+    console.log('hi');
+  },
 };
 </script>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

@@ -19,14 +19,63 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b549efbb-93f3-46a8-b22a-99e878c85975" name="Default Changelist" comment="" />
+    <list default="true" id="b549efbb-93f3-46a8-b22a-99e878c85975" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/components/common/AppHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-til/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-til/src/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-til" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="1_setup" />
+                    <option name="lastUsedInstant" value="1590560325" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1590560324" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="1_setup" />
+                    <option name="lastUsedInstant" value="1590578596" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1590578595" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/vue-til" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1cOdQu446n0SwzPsQC9JraDCZWm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -39,14 +88,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,7 +116,12 @@
       <workItem from="1590403561408" duration="1080000" />
       <workItem from="1590405350331" duration="4883000" />
       <workItem from="1590558224212" duration="956000" />
-      <workItem from="1590559553207" duration="390000" />
+      <workItem from="1590559553207" duration="1761000" />
+      <workItem from="1590564919880" duration="1309000" />
+      <workItem from="1590566340731" duration="910000" />
+      <workItem from="1590567454368" duration="1034000" />
+      <workItem from="1590574062697" duration="2000" />
+      <workItem from="1590578535232" duration="627000" />
     </task>
     <servers />
   </component>
@@ -79,5 +139,19 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="142" key="SettingsEditor" timestamp="1590578937825">
+      <screen x="0" y="23" width="1920" height="1137" />
+    </state>
+    <state x="344" y="142" key="SettingsEditor/0.23.1920.1137@0.23.1920.1137" timestamp="1590578937825" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1590567407512">
+      <screen x="0" y="23" width="1920" height="1137" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.23.1920.1137@0.23.1920.1137" timestamp="1590567407512" />
+    <state x="629" y="155" width="964" height="820" key="search.everywhere.popup" timestamp="1590568598927">
+      <screen x="0" y="23" width="1920" height="1137" />
+    </state>
+    <state x="629" y="155" width="964" height="820" key="search.everywhere.popup/0.23.1920.1137@0.23.1920.1137" timestamp="1590568598927" />
   </component>
 </project>
